@@ -1,0 +1,90 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'J.V.M'
+theme = 'tailbliss'
+
+[params]
+author = "Jordi Ventayol"
+authorimage = "../assets/images/global/cube_icon_background.png"
+og_image = "/images/tailbliss-cover.png"
+moto = "Security Engineer"
+short_description = """
+I'm a security engineer with 7+ years experience in mobile security, specifically reverse-engineering, code obfuscation, software protections and cryptography.
+"""
+short_career = """
+During my professional career, I have worked evaluating the security of a multitude of banking applications for Android and iOS. This has allowed me not only to acquire knowledge in the previous aforementioned areas, but also in the payment schemes and cryptography involved in the payment processes of EMVCo environment (VISA, MASTERCARD, AMEX, DISCOVER, among others).
+"""
+description = "CyberSecurity"
+disable_theme_toggle = false
+disable_stay_uptodate = false
+
+# Similar sections can be defined for p2, p3, and so on...
+
+[params.p4]
+heading = "Blog"
+content = [ { text = "The place where I will be posting different articles about cybersecurity world." } ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Define p5 and social_media similarly...
+[params.p5]
+content = [ { text = "Enter your email to stay updated on the latest posts." } ]
+
+[params.social_media.linkedin]
+enabled = true
+url = "https://linkedin.com/in/JordiVentayol"
+
+[params.social_media.github]
+enabled = true
+url = "https://github.com/JordiVentayol"
+
+[params.social_media.twitter]
+enabled = true
+url = 'https://twitter.com/JordiVenta'
+
+[params.social_media.facebook]
+enabled = false
+
+[params.social_media.instagram]
+enabled = false
+
+[menu]
+  [[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/categories/blog/"
+  weight = 10
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
+
+  [[menu.footer]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+  [[menu.footer]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/categories/blog/"
+  weight = 20
+
+  [[menu.footer]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
+
