@@ -32,6 +32,7 @@ content = [ { text = "The place where I will be posting different articles about
 # Define p5 and social_media similarly...
 [params.p5]
 content = [ { text = "Enter your email to stay updated on the latest posts." } ]
+action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeop8_Sonld1azo6MpM7rQog0NwgCSoyZMqkjWcJEB9rEkyMg/formResponse"
 
 [params.social_media.linkedin]
 enabled = true
