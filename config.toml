@@ -56,7 +56,7 @@ enabled = false
   [[menu.main]]
   identifier = "blog"
   name = "Blog"
-  url = "/posts/"
+  url = "/categories/posts/"
   weight = 10
 
   [[menu.main]]
@@ -80,7 +80,7 @@ enabled = false
   [[menu.footer]]
   identifier = "blog"
   name = "Blog"
-  url = "/posts/"
+  url = "/categories/posts/"
   weight = 20
 
   [[menu.footer]]
