@@ -9,7 +9,7 @@ authorimage = "../assets/images/global/cube_icon_background.png"
 og_image = "/images/tailbliss-cover.png"
 moto = "Security Engineer"
 short_description = """
-I'm a security engineer with 7+ years experience in mobile security, specifically reverse-engineering, code obfuscation, software protections and cryptography.
+I'm a security engineer with 7+ years experience in Mobile Security, specifically reverse-engineering, code obfuscation, software protections and cryptography.
 """
 short_career = """
 During my professional career, I have worked evaluating the security of a multitude of banking applications for Android and iOS. This has allowed me not only to acquire knowledge in the previous aforementioned areas, but also in the payment schemes and cryptography involved in the payment processes of EMVCo environment (VISA, MASTERCARD, AMEX, DISCOVER, among others).
