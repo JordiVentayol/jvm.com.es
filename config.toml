@@ -56,7 +56,7 @@ enabled = false
   [[menu.main]]
   identifier = "blog"
   name = "Blog"
-  url = "/categories/posts/"
+  url = "/posts"
   weight = 10
 
   [[menu.main]]
