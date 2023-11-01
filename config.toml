@@ -80,7 +80,7 @@ enabled = false
   [[menu.footer]]
   identifier = "blog"
   name = "Blog"
-  url = "/categories/posts/"
+  url = "/posts"
   weight = 20
 
   [[menu.footer]]

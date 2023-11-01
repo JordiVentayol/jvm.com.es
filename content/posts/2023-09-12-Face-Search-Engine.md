@@ -2,7 +2,7 @@
 title: "A Search Face Engine"
 date: 2023-09-12T11:12:48+02:00
 featured_image: ../assets/images/featured/2023-09-12-Face-Search-Engine/preview.png
-draft: true
+draft: false
 summary: Introducing PimEyes and a small security bug.
 description: PimEye is a search engine that allows us to search for faces on the Internet. In their first versions they made a small security error.
 author: Jordi Ventayol

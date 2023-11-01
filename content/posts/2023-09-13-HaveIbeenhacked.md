@@ -2,7 +2,7 @@
 title: "Have I been hacked?"
 date: 2023-09-13T11:12:48+02:00
 featured_image: ../assets/images/featured/2023-09-13-HaveIbeenhacked/img1.png
-draft: true
+draft: false
 summary: Keep data leaks under control.
 description: This tool allows us to know where our data has been leaked and what data has been leaked.
 author: Jordi Ventayol
