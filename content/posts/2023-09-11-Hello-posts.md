@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2023-09-11T11:12:48+02:00
 featured_image: ../assets/images/featured/2023-09-11-Hello-posts/hello_world2.jpeg
-draft: true
+draft: false
 summary: Welcome to the blog section.
 description: Simply the first post in the blog section.
 author: Jordi Ventayol
