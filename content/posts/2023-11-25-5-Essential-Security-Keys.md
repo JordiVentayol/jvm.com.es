@@ -2,7 +2,7 @@
 title: "5 Security Keys"
 date: 2023-11-27T11:12:48+02:00
 featured_image: ../assets/images/featured/2023-11-27-5-Essential-Security-Keys/5keys.png
-draft: true
+draft: false
 summary: 5 Essential Security Keys for Mobile Applications.
 description: After a few years analyzing mobile applications, I present what I believe are the 5 most important keys.
 author: Jordi Ventayol
