@@ -11,7 +11,7 @@ categories: Blog
 tags: [Android, iOS, Obfuscation] 
 ---
 
-During the past years, I have been involved in evaluated a huge number of Mobile applications to analyze their security. The followed strategy has allowed me to position me from the point of view of an attacker and from the point of view of a defender, gaining experience both as attacker and defender. The result has been a little knowledge on how protect mobile applications against the most innovative attacks in the field. From all this experience acquired, below I comment the most important aspects for a mobile application in terms of security.
+Over the past years, I have been involved in evaluating a vast number of mobile applications to analyze their security. This strategy has enabled me to adopt the perspectives of both an attacker and a defender, gaining experience in each role. As a result, I have gained significant knowledge about protecting mobile applications against the most innovative attacks in the field. Based on this extensive experience, I will discuss the most important aspects of mobile application security below.
 
 In this article, we will discuss five essential security keys that every mobile application should have in mind to protect user and application data. From obfuscation to code quality, these keys are crucial for ensuring the security and integrity of your mobile application.
 
